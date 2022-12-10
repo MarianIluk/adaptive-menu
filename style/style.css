@@ -1,0 +1,39 @@
+
+
+.header {
+    width: 100%;
+    height: 50px;
+    background: rgb(127, 127, 240);
+}
+
+.box-line {
+    width: 30px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.line {
+    margin: 5px 10px;
+    width: 30px;
+    height: 3px;
+    background: white;
+}
+
+.header-list {
+    display: none;
+    margin-top: 50px;
+    background: rgb(127, 127, 240);
+}
+
+.header-list-item {
+    margin-top: 10px;
+    list-style: none;
+    font-size: 20px;
+}
+
+.cross {
+    display: none;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
